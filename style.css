@@ -64,38 +64,42 @@ h1{
 #mvg-3{
     background-color: rgb(248, 238, 144);
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.visit{
+    background-image: url(images/pictures/Tanguar-Haor-Sunamganj-768x512.jpg);
+    width: 30%;
+    padding-top: 350px;
+    border-radius: 20px;
+    margin: 40px;
+    color: azure;
+    padding-left: 20px;
+}
+.visit-2{
+    background-image: url(images/pictures/17381799730_08e8177695_b-700x466.jpg);
+    width: 30%;
+    padding-top: 350px;
+    border-radius: 20px;
+    margin: 40px;
+    color: azure;
+    padding-left: 20px;
+}
+.visit-3{
+    background-image: url(images/pictures/Boats-harbour-Marcel-Cove-Lesser-Antilles-Saint-Martin.jpg);
+    width: 30%;
+    padding-top: 350px;
+    border-radius: 20px;
+    margin: 40px;
+    color: azure;
+    padding-left: 20px;
+}
+#footer{
+    padding-top: 30px;
+}
+.fot{
+    padding-bottom: 30px;
+}
+#block-1{
+    width: 35%;
+}
 .footer{
     padding: 7px;
     text-align: center;
